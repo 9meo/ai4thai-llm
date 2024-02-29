@@ -1,1 +1,2 @@
 - Generative Chatbot [[Colab](https://colab.research.google.com/github/9meo/ai4thai-llm/blob/main/example/Generative_AI.ipynb)]
+- RAG [[Colab](https://colab.research.google.com/github/9meo/ai4thai-llm/blob/main/example/RAG_index.ipynb)]
